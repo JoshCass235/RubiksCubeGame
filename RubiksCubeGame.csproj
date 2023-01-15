@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="RubiksCubeFiles\" />
+    <Folder Include="RubiksCube\" />
   </ItemGroup>
 
 </Project>
