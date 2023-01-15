@@ -1,5 +1,5 @@
 # RubiksCubeGame
-To run app just open the solution file and press F5
+To run the app, just open the solution file and press F5
 
 Overview of code:
 The Grid folder is the bare bones of the forms component. This has standard forms drawing code.
