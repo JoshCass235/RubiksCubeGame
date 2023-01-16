@@ -6,7 +6,7 @@ namespace RubiksCubeGame
     partial class MainForm
     {
         #region Windows Form Designer generated code
-        private void InitializeComponent() //TODO: Look at all sizing
+        private void InitializeComponent()
         {
             this.label = new System.Windows.Forms.Label();
             this.buttonUndoChanges = new System.Windows.Forms.Button();
